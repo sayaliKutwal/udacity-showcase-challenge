@@ -1,2 +1,2 @@
 # udacity-showcase-challenge
-A tweets analysis for project showcase challenge for SPAIC 
+A tweets analysis project for showcase challenge for SPAIC 
